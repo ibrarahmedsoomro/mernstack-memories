@@ -1,0 +1,23 @@
+.input__form input{
+  width: 300px;  
+  
+}
+
+.input__form label{
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.message-input{
+    height: 100px;
+}
+
+.signin{
+  width: 300px;
+}
+
+.signin button{
+  font-size: 20px;
+  font-weight: 400;
+}

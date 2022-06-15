@@ -1,0 +1,10 @@
+.nav-link{
+    justify-content: space-around;
+    /* padding-left: 200px; */
+}
+
+
+.nav-item .nav-link a{
+    padding-right: 20px;
+}
+

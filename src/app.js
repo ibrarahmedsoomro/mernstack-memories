@@ -7,8 +7,6 @@ import postRouter from './routes/posts.js'
 const port = process.env.PORT || 5000
 // require('./Db/Connection')
 
-
-
 const app = express()
 app.use(bodyParser.json({limit : "30mb" , extended : true}))
 app.use(bodyParser.urlencoded({limit : "30mb" , extended : true}))
